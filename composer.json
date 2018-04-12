@@ -1,7 +1,7 @@
 {
-     "name":"z3/Hello",
+     "name":"kiwi/World",
      "autoload":{
-        "psr-4": {"z3\\Hello\\": "src/"}     
+        "psr-4": {"kiwi\\World\\": "src/"}     
      }
 
 }

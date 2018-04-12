@@ -1,5 +1,5 @@
 {
-     "name":"kiwi/World",
+     "name":"Kiwi0921/World",
      "autoload":{
         "psr-4": {"kiwi\\World\\": "src/"}     
      }

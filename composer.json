@@ -1,0 +1,7 @@
+{
+     "name":"z3/Hello",
+     "autoload":{
+        "psr-4": {"z3\\Hello\\": "src/"}     
+     }
+
+}
